@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'icleaf'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_36B660FF873940F594A00771D21F663A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E19A163DC5DA4A0DAB74380BB9BBE2C3 }}
           package: '*.jar'
